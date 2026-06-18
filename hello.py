@@ -1,2 +1,4 @@
 #!/usr/bin/env python3
-print("Hello, world!")
+
+x = 10
+print(x)
